@@ -5,7 +5,7 @@ My programming learning projects using C#, Python, and Kotlin.
 ## Contents
 | Folder | Language | Description |
 |--------|----------|-------------|
-| [CSharp](./CSharp) | C# | Beginner exercises, starting with HelloWorld |
+| [CSharp](./CSharp) | C# | Beginner exercises, starting with Calculator, EvenOdd, Greeting, NumberGuess, and HelloWorld |
 
 ## How to run the C# programs
 1. Install the [.NET SDK](https://dotnet.microsoft.com/download)
